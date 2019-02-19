@@ -4,7 +4,7 @@ lotus is a multithreaded non-blocking event-driven C++ network library based on 
 this medium-scale lotus project was a coding exercise(in 2018), which was referred to Chen Shuo's muduo project. 
 It followed the same naming rules as in muduo.
 
-Here is description of this lotus project:
+Here is a description of this lotus project:
 1) fully based on C++11, and uses std::bind/function widely instead of virtual function;
 2) C++11 , and smart_pointer applied in related application;
 3) the reactor pattern worked together with timer and Linux epoll;
